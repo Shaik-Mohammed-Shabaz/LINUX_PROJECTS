@@ -8,7 +8,7 @@ Each project includes a **PDF document** with step-by-step instructions.
 🐧 Linux Projects Lists:
 
 
-1️⃣ Creating a Website on Linux (CentOS Stream 9)
+1️⃣ Website-Hosting-CentOS9
 
 
 ## Project Objective
@@ -51,6 +51,10 @@ sudo firewall-cmd --reload
 **📄 Documentation:**  
 [View Project Documentation](website-hosting-centos9.pdf) https://drive.google.com/file/d/1OErYvfvwH6wAxAiIbjinRcQnobDNbiJ_/view?usp=sharing
 
+   
+## Project Summary
+
+Designed and deployed a static website on CentOS Stream 9 using Apache HTTP Server. Configured web services, managed firewall settings, and verified accessibility through network testing. Documented the complete deployment process and troubleshooting steps.
 
 
 *(More projects will be added here as I complete them.)*
